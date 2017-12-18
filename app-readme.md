@@ -1,15 +1,15 @@
-# Meteor • [TodoMVC](http://todomvc.com)
+# Framework Name • [TodoMVC](http://todomvc.com)
 
-> Meteor is an open source platform for web, mobile, and desktop.
+> Official description of the framework (from its website)
+
 
 ## Resources
 
-- [Website](https://www.meteor.com/)
-- [Guide](https://guide.meteor.com/)
-- [Documentation](https://docs.meteor.com/)
+- [Website]()
+- [Documentation]()
 - [Used by]()
-- [Blog](https://blog.meteor.com/)
-- [FAQ](https://www.meteor.com/meteor-faq)
+- [Blog]()
+- [FAQ]()
 
 ### Articles
 
@@ -27,7 +27,7 @@
 
 ## Implementation
 
-This app 
+How was the app created? Anything worth sharing about the process of creating the app? Any spec violations?
 
 
 ## Credit
